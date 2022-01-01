@@ -42,26 +42,20 @@ export default function Home() {
               <ul>
                 <li>
                   <p>
-                  Engineered highly interactive proposal editor allowing contractors to create estimates, 
-                  generate invoices and distribute these documents to their clients via email.
+                    Automated building, testing, and deployment for Web and API code via CI/CD pipeline 
+                    utilizing Docker and AWS Services.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Wrote unit tests for React.js and Node.js applications using popular libraries 
-                    such as Jest, Enzyme, Mocha, and Supertest.
+                  Engineered highly interactive editor allowing contractors to create estimates, 
+                  generate invoices and distribute these documents to clients via email.
                   </p>
                 </li>
                 <li>
                   <p>
-                  Automated building, testing, and deployment for web application and API code by deploying a CI/CD pipeline 
-                  that utilized AWS services such as ECR, ECS, CodeBuild, CodePipeline, and CodeDeploy.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Coordinated with product managers to discuss features and organize tasks, on Jira, into biweekly sprints 
-                    to meet deadlines and increase communication and performance.
+                    Coordinated with product managers to refine features and prioritize tasks in biweekly prints, 
+                    which encouraged flexibility and focused output.
                   </p>
                 </li>
               </ul>
@@ -78,7 +72,7 @@ export default function Home() {
                 </li>
                 <li>
                   <p>
-                    Designed and developed an in-house content management system for creating, updating, and deleting inventory, 
+                    Designed and developed in-house content management system for managing inventory, 
                     tracking orders, and automating customer communication.
                   </p>
                 </li>
@@ -87,11 +81,17 @@ export default function Home() {
                     Integrated Stripe API for payment processing and delivering sales analytics through a dashboard interface.
                   </p>
                 </li>
+                <li>
+                  <p>
+                    Wrote unit tests for React.js and Node.js applications using popular libraries 
+                    such as Jest, Enzyme, Mocha, and Supertest.
+                  </p>
+                </li>
               </ul>
             </div>
 
             <div className="group">
-              <p className="position"><span className="emphasis">Web Developer at Fig</span> San Diego, Ca. January 2017 - December 2018</p>
+              <p className="position"><span className="emphasis">Web Developer at Fig</span> San Diego, Ca. January 2017 - March 2018</p>
               <ul>
                 <li>
                   <p>
@@ -101,7 +101,7 @@ export default function Home() {
                 </li>
                 <li>
                   <p>
-                    Coordinated with a team of designers to create and implement reusable modern UI/UX elements and
+                    Coordinated with a team of designers to create modern and reusable UI/UX elements and
                     increase user engagement.
                   </p>
                 </li>
@@ -122,7 +122,18 @@ export default function Home() {
               </p>
               <p className="skills">
                 JavaScript (ES6), TypeScript, Python,
-                HTML, CSS/SASS, CSS-in-JS
+                HTML, CSS/SASS
+              </p>
+            </div>
+
+            <div className="group">
+              <p className="position">
+                <span className="emphasis">
+                  Database Technologies
+                </span>
+              </p>
+              <p className="skills">
+                MongoDB, PostgreSQL, MySQL
               </p>
             </div>
 
@@ -134,7 +145,7 @@ export default function Home() {
               </p>
               <p className="skills">
                 React.js, React Native, Next.js, Node.js, Express,
-                GraphQL, jQuery
+                GraphQL, jQuery, CSS-in-JS
               </p>
             </div>
 
@@ -178,7 +189,7 @@ export default function Home() {
             <h3 className="section-title">References</h3>
             <p className="position">
               <span className="emphasis">
-                Rory Abraham
+                Rory Abraham - Full Stack Engineer at Expensify
               </span>
             </p>
             <p className="skills">
