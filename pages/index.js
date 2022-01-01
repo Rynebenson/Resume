@@ -133,7 +133,7 @@ export default function Home() {
                 </span>
               </p>
               <p className="skills">
-                MongoDB, PostgreSQL, MySQL
+                MongoDB, Mongoose, PostgreSQL, MySQL
               </p>
             </div>
 
