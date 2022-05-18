@@ -42,20 +42,26 @@ export default function Home() {
               <ul>
                 <li>
                   <p>
-                    Automated building, testing, and deployment for Web and API code via CI/CD pipeline 
-                    utilizing Docker and AWS Services.
+                    Architected, developed, and shipped CRM (Customer Relationship Management) + Estimate system 
+                    for contractors consisting of 40 database tables and 250 API endpoints.
                   </p>
                 </li>
                 <li>
                   <p>
-                  Engineered highly interactive editor allowing contractors to create estimates, 
-                  generate invoices and distribute these documents to clients via email.
+                    Automated build, test, and deployment processes for Web Application and REST API code via CI/CD pipeline 
+                    utilizing Webpack, Docker and AWS Services.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Coordinated with product managers to refine features and prioritize tasks in biweekly prints, 
+                    Coordinated with product managers to refine features and prioritize tasks by creating biweekly sprints through Jira services, 
                     which encouraged flexibility and focused output.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Conducted biweekly code reviews with engineers to improve code quality and ensure application structures and conventions
+                    were maintained.
                   </p>
                 </li>
               </ul>
