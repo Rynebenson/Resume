@@ -42,8 +42,9 @@ export default function Home() {
               <ul>
                 <li>
                   <p>
-                    Architected, developed, and shipped CRM (Customer Relationship Management) + Estimate system 
-                    for contractors consisting of 40 database tables and 250 API endpoints.
+                    Architected and developed feature rich customer relationship management system, 
+                    consisting of 40 database tables and 250 endpoints, allowing general
+                    contractors to build and distribute proposals efficiently.
                   </p>
                 </li>
                 <li>
@@ -128,7 +129,7 @@ export default function Home() {
               </p>
               <p className="skills">
                 JavaScript (ES6), TypeScript, Python,
-                HTML, CSS/SASS
+                Java, C++, HTML, CSS/SASS
               </p>
             </div>
 
