@@ -38,13 +38,50 @@ export default function Home() {
             <h3 className="section-title">Experience</h3>
 
             <div className="group">
-              <p className="position"><span className="emphasis">Full Stack Engineer at Frank</span> Los Angeles, Ca. July 2020 - Present</p>
+              <p className="position">
+                <span className="emphasis">
+                  Senior Developer II at Nexient
+                </span>
+
+                Los Angeles, Ca. June 2022 - Present
+              </p>
+
+              <ul>
+                <li>
+                  <p>
+                    Interact with client partners to understand the business case and vision for their project, 
+                    outline the technical approach, provide accurate development estimates and timelines, 
+                    and proactively raise and solve any issues.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Manage an engineering team consisting of 2 - 3 developers. Conduct code reviews assuring Definition of Done, coding standards, and 
+                    design principles are met. Holding regular one on one meetings with team members. Provide written performance reviews on a monthly basic.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Establish cloud and full-stack architecture (conceptual, logical, physical, deployment) for client projects and lead team 
+                    in implementation. Independently design and develop within the defined architecture.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Set an example of a professional developer. Coach and teach usage of Design Patterns, SOLID principles, and 
+                    Architectural Patterns.
+                  </p>
+                </li>
+              </ul>
+            </div>
+
+            <div className="group">
+              <p className="position"><span className="emphasis">Full Stack Engineer at Frank</span> Los Angeles, Ca. July 2020 - May 2022</p>
               <ul>
                 <li>
                   <p>
                     Architected and developed feature rich customer relationship management system, 
-                    consisting of 40 database tables and 250 endpoints, allowing general
-                    contractors to build and distribute proposals efficiently.
+                    allowing contractors to create, manage and distribute estimates more efficiently.
                   </p>
                 </li>
                 <li>
