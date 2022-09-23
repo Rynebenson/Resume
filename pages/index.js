@@ -49,27 +49,25 @@ export default function Home() {
               <ul>
                 <li>
                   <p>
-                    Interact with client partners to understand the business case and vision for their project, 
-                    outline the technical approach, provide accurate development estimates and timelines, 
-                    and proactively raise and solve any issues.
+                    Communicate with client partners to understand business case and vision for a given project, 
+                    outline the technical approach, and provide development estimates.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Manage an engineering team consisting of 2 - 3 developers. Conduct code reviews assuring Definition of Done, coding standards, and 
-                    design principles are met. Holding regular one on one meetings with team members. Provide written performance reviews on a monthly basic.
+                    Establish cloud and full-stack architecture and lead team 
+                    in implementation. Design and develop functionality within the defined architecture.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Establish cloud and full-stack architecture (conceptual, logical, physical, deployment) for client projects and lead team 
-                    in implementation. Independently design and develop within the defined architecture.
+                    Manage a 2-3 person engineering team. Conduct code reviews assuring Definition of Done, coding standards, and 
+                    design principles are met.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Set an example of a professional developer. Coach and teach usage of Design Patterns, SOLID principles, and 
-                    Architectural Patterns.
+                    Hold regular one on one meetings with team members. Provide written performance reviews on a monthly basis.
                   </p>
                 </li>
               </ul>
@@ -105,7 +103,7 @@ export default function Home() {
               </ul>
             </div>
 
-            <div className="group">
+            <div className="group" style={{marginTop: 140}}>
               <p className="position"><span className="emphasis">Full Stack Engineer at Original Eye</span> Los Angeles, CA. January 2019 - January 2020</p>
               <ul>
                 <li>
