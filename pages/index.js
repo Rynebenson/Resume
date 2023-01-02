@@ -40,7 +40,7 @@ export default function Home() {
             <div className="group">
               <p className="position">
                 <span className="emphasis">
-                  Senior Developer II at Nexient
+                  Lead Engineer at Nexient
                 </span>
 
                 Los Angeles, Ca. June 2022 - Present
@@ -49,25 +49,20 @@ export default function Home() {
               <ul>
                 <li>
                   <p>
-                    Communicate with client partners to understand business case and vision for a given project, 
-                    outline the technical approach, and provide development estimates.
+                    Communicate with client partners to understand business case and requirements. Provide accurate 
+                    development estimates via user stories and tasks to establish deadlines and accelerate deliverability.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Establish cloud and full-stack architecture and lead team 
-                    in implementation. Design and develop functionality within the defined architecture.
+                    Architect, outline and document technology stacks for a given project, typically consisting of Single-page applications and Microservices hosted
+                    on Amazon Web Services and Azure. Design and develop functionality within the defined architecture.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Manage a 2-3 person engineering team. Conduct code reviews assuring Definition of Done, coding standards, and 
-                    design principles are met.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Hold regular one on one meetings with team members. Provide written performance reviews on a monthly basis.
+                    Manage an engineering team consisting of 3+ developers. Conduct code reviews and regularly hold one on one meetings
+                    with team members. Provide written performance reviews on a monthly basis.
                   </p>
                 </li>
               </ul>
@@ -103,7 +98,7 @@ export default function Home() {
               </ul>
             </div>
 
-            <div className="group" style={{marginTop: 140}}>
+            <div className="group" style={{marginTop: 0}}>
               <p className="position"><span className="emphasis">Full Stack Engineer at Original Eye</span> Los Angeles, CA. January 2019 - January 2020</p>
               <ul>
                 <li>
