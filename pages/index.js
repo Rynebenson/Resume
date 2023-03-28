@@ -49,20 +49,22 @@ export default function Home() {
               <ul>
                 <li>
                   <p>
-                    Communicate with client partners to understand business case and requirements. Provide accurate 
-                    development estimates via user stories and tasks to establish deadlines and accelerate deliverability.
+                    Provide technical leadership and guidance to the development team, ensuring that best practices are followed and technical debt is minimized.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Architect, outline and document technology stacks for a given project, typically consisting of Single-page applications and Microservices hosted
-                    on Amazon Web Services and Azure. Design and develop functionality within the defined architecture.
+                    Collaborate with client partners to define technical requirements and architecture, and ensure that technical solutions align with business goals.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Manage an engineering team consisting of 3+ developers. Conduct code reviews and regularly hold one on one meetings
-                    with team members. Provide written performance reviews on a monthly basis.
+                    Conduct code reviews and provide feedback to the development team, ensuring that code is maintainable, scalable, and well-documented.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                  Stay up-to-date with the latest developments in React.Js, Amazon Web Services, and Azure DevOps, and drive innovation by introducing new tools, frameworks, and technologies as appropriate.
                   </p>
                 </li>
               </ul>
