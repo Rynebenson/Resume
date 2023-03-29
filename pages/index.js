@@ -195,8 +195,8 @@ export default function Home() {
                 </span>
               </p>
               <p className="skills">
-                Git, Docker, AWS, Firebase, Heroku,
-                Postman, Jira, Visual Studio Code
+                Git, Docker, AWS, ADO, Visual Studio Code, Firebase, Heroku,
+                Jira, Postman
               </p>
             </div>
 
@@ -227,13 +227,17 @@ export default function Home() {
           <section className="section">
             <h3 className="section-title">References</h3>
             <p className="position">
-              <span className="emphasis">
-                Rory Abraham - Full Stack Engineer at Expensify
-              </span>
+              <span className="emphasis">Rory Abraham</span>
+              Full Stack Engineer at Expensify
             </p>
             <p className="skills">
               408-529-4667
             </p>
+            <p className="position">
+              <span className="emphasis">Joseph Thompson</span>
+              Dev Ops Engineer at Nexient
+            </p>
+            <p className="skills">916-532-5212</p>
           </section>
         </div>
       </div>
