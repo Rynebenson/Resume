@@ -54,7 +54,7 @@ export default function Home() {
                 </li>
                 <li>
                   <p>
-                    Collaborate with client partners to define technical requirements and architecture, and ensure that technical solutions align with business goals.
+                    Collaborate with client partners to define technical requirements and architecture, and ensure that solutions meet business goals.
                   </p>
                 </li>
                 <li>
@@ -64,7 +64,7 @@ export default function Home() {
                 </li>
                 <li>
                   <p>
-                  Stay up-to-date with the latest developments in React.Js, Amazon Web Services, and Azure DevOps, and drive innovation by introducing new tools, frameworks, and technologies as appropriate.
+                    Drive innovation for the javascript practice department by introducing new tools, practices and frameworks focused towards ReactJS, Amazon Web Services and Azure DevOps.
                   </p>
                 </li>
               </ul>
