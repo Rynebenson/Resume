@@ -40,7 +40,7 @@ export default function Home() {
             <div className="group">
               <p className="position">
                 <span className="emphasis">
-                  Lead Engineer at Nexient
+                  Senior Developer II at Nexient
                 </span>
 
                 Los Angeles, Ca. June 2022 - Present
@@ -49,22 +49,23 @@ export default function Home() {
               <ul>
                 <li>
                   <p>
-                    Provide technical leadership and guidance to the development team, ensuring that best practices are followed and technical debt is minimized.
+                    Collaborated with client partners to define technical requirements and architecture for front-end services, ensuring that solutions meet business goals.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Collaborate with client partners to define technical requirements and architecture, and ensure that solutions meet business goals.
+                    Leveraged Azure DevOps to build and organize development worflows that optimized code delivery and efficiency. Automated tests within pipeline using Jest and Cobertura
+                    to ensure code coverage of &gt;80% for React application.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Conduct code reviews and provide feedback to the development team, ensuring that code is maintainable, scalable, and well-documented.
+                    Implemented Lambda functions within a serverless application, integrating with Cognito User Pools to deliver secure and scalable user authentication and authorization capabilities.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Drive innovation for the javascript practice department by introducing new tools, practices and frameworks focused towards ReactJS, Amazon Web Services and Azure DevOps.
+                    Led and supervised a team of 5 engineers, ensuring project execution, collaboration, and achieving project milestones. Additionally, prepared and delivered bi-monthly reports, providing insights and updates on project progress to stakeholders and senior management.
                   </p>
                 </li>
               </ul>
