@@ -65,7 +65,7 @@ export default function Home() {
                 </li>
                 <li>
                   <p>
-                    Led and supervised a team of 5 engineers, ensuring project execution, collaboration, and achieving project milestones. Additionally, prepared and delivered bi-monthly reports, providing insights and updates on project progress to stakeholders and senior management.
+                    Led a front-end engineering team consisting of 5 engineers. Additionally, prepared and delivered bi-monthly reports, providing insights and updates on project progress to stakeholders and senior management.
                   </p>
                 </li>
               </ul>
