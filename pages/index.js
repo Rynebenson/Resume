@@ -54,18 +54,23 @@ export default function Home() {
                 </li>
                 <li>
                   <p>
-                    Leveraged Azure DevOps to build and organize development worflows that optimized code delivery and efficiency. Automated tests within pipeline using Jest and Cobertura
-                    to ensure code coverage of &gt;80% for React application.
+                    Led a front-end engineering team of 5 engineers. Delivered bi-monthly reports, providing insights and updates on project progress to stakeholders and senior management.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Implemented Lambda functions within a serverless application, integrating with Cognito User Pools to deliver secure and scalable user authentication and authorization capabilities.
+                    Architected and developed web applications in the latest version of React, using tools such as React Hooks and React Query to improve the performance, scalability and maintainability.
                   </p>
                 </li>
                 <li>
                   <p>
-                    Led a front-end engineering team consisting of 5 engineers. Additionally, prepared and delivered bi-monthly reports, providing insights and updates on project progress to stakeholders and senior management.
+                    Automated tests within Azure DevOps pipeline using Jest and Cobertura to ensure code coverage of &gt;80% for deployment requirements.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Implemented REST API and AWS Microservice architecture using Serverless framework which provided backend connection via Lambda functions and API Gateway including IAM permissions, S3 buckets, and
+                    Cognito User Pool integration to deliver secure and scalable user authentication.
                   </p>
                 </li>
               </ul>
