@@ -33,129 +33,7 @@ export default function Home() {
       </div>
 
       <div className="flex">
-        <div className="col1">
-          <section className="section">
-            <h3 className="section-title">Experience</h3>
-
-            <div className="group">
-              <p className="position">
-                <span className="emphasis">
-                  Senior Developer II at Nexient
-                </span>
-
-                Los Angeles, Ca. June 2022 - Present
-              </p>
-
-              <ul>
-                <li>
-                  <p>
-                    Collaborated with client partners to define technical requirements and architecture for front-end services, ensuring that solutions meet business goals.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Led a front-end engineering team of 5 engineers. Delivered bi-monthly reports, providing insights and updates on project progress to stakeholders and senior management.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Architected and developed web applications in the latest version of React, using tools such as React Hooks and React Query to improve the performance, scalability and maintainability.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Automated tests within Azure DevOps pipeline using Jest and Cobertura to ensure code coverage of &gt;80% for deployment requirements.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Implemented REST API and AWS Microservice architecture using Serverless framework which provided backend connection via Lambda functions and API Gateway including IAM permissions, S3 buckets, and
-                    Cognito User Pool integration to deliver secure and scalable user authentication.
-                  </p>
-                </li>
-              </ul>
-            </div>
-
-            <div className="group">
-              <p className="position"><span className="emphasis">Full Stack Engineer at Frank</span> Los Angeles, Ca. July 2020 - May 2022</p>
-              <ul>
-                <li>
-                  <p>
-                    Architected and developed feature rich customer relationship management system, 
-                    allowing contractors to create, manage and distribute estimates more efficiently.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Automated build, test, and deployment processes for Web Application and REST API code via CI/CD pipeline 
-                    utilizing Webpack, Docker and AWS Services.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Coordinated with product managers to refine features and prioritize tasks by creating biweekly sprints through Jira services, 
-                    which encouraged flexibility and focused output.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Conducted biweekly code reviews with engineers to improve code quality and ensure application structures and conventions
-                    were maintained.
-                  </p>
-                </li>
-              </ul>
-            </div>
-
-            <div className="group" style={{marginTop: 0}}>
-              <p className="position"><span className="emphasis">Full Stack Engineer at Original Eye</span> Los Angeles, CA. January 2019 - January 2020</p>
-              <ul>
-                <li>
-                  <p>
-                    Developed and shipped modern web applications for the e-commerce platform 
-                    using popular frameworks including React, GraphQL, and SASS.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Designed and developed in-house content management system for managing inventory, 
-                    tracking orders, and automating customer communication.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Integrated Stripe API for payment processing and delivering sales analytics through a dashboard interface.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Wrote unit tests for React.js and Node.js applications using popular libraries 
-                    such as Jest, Enzyme, Mocha, and Supertest.
-                  </p>
-                </li>
-              </ul>
-            </div>
-
-            <div className="group">
-              <p className="position"><span className="emphasis">Web Developer at Fig</span> San Diego, Ca. January 2017 - March 2018</p>
-              <ul>
-                <li>
-                  <p>
-                    Developed front-end and back-end services for the social networking
-                    web application using PHP, Javascript, jQuery, and MySQL.
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    Coordinated with a team of designers to create modern and reusable UI/UX elements and
-                    increase user engagement.
-                  </p>
-                </li>
-              </ul>
-            </div>
-          </section>
-        </div>
-
-        <div className="col2">
+      <div className="col2">
           <section className="section">
             <h3 className="section-title">Skills</h3>
 
@@ -167,7 +45,7 @@ export default function Home() {
               </p>
               <p className="skills">
                 JavaScript (ES6), TypeScript, Python,
-                Java, C++, HTML, CSS/SASS
+                HTML/CSS
               </p>
             </div>
 
@@ -189,8 +67,8 @@ export default function Home() {
                 </span>
               </p>
               <p className="skills">
-                React.js, React Native, Next.js, Node.js, Express,
-                GraphQL, jQuery, CSS-in-JS
+                React.js, React Native, Next.js, Node.js, Express.js,
+                GraphQL, Serverless, Tailwind CSS
               </p>
             </div>
 
@@ -201,7 +79,7 @@ export default function Home() {
                 </span>
               </p>
               <p className="skills">
-                Git, Docker, AWS, ADO, Visual Studio Code, Firebase, Heroku,
+                Git, Docker, AWS, Azure DevOps, Visual Studio Code,
                 Jira, Postman
               </p>
             </div>
@@ -217,20 +95,185 @@ export default function Home() {
               </p>
             </div>
           </section>
+        </div>
 
+        <div className="col1">
           <section className="section">
-            <h3 className="section-title">Education</h3>
-            <p className="position">
-              <span className="emphasis">
-                California Baptist University
-              </span>
-            </p>
-            <p className="skills">
-              Riverside, Ca. 2015 - 2017
-            </p>
+            <h3 className="section-title">Experience</h3>
+
+            <div className="group">
+              <p className="position">
+                <span className="emphasis">
+                  Founding Engineer at WeApply
+                </span>
+
+                Los Angeles, Ca. January 2023 - Present &bull; Contract
+              </p>
+
+              <ul>
+                <li>
+                  <p>
+                    Architected and developed front-end application using Next.js, React.js and Tailwind CSS.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Designed and developed internal employee system using Next.js and React.js, enabling efficient
+                    management and access to secure customer data.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Developed scalable REST API using Serverless architecture and Node.JS Lambda functions.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Designed database schema, implemented database models, and
+                    optimized queries using MongoDB for data storage and retrieval.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Automated a range of services from email marketing campaigns to real-time data processing
+                    using AWS Lambda cron jobs.
+                  </p>
+                </li>
+              </ul>
+            </div>
+
+            <div className="group">
+              <p className="position">
+                <span className="emphasis">
+                  Senior Full Stack Engineer at Arch Painting
+                </span>
+
+                Remote. September 2023 - April 2024. &bull; Contract
+              </p>
+
+              <ul>
+                <li>
+                  <p>
+                    Developed front-end web applications using TypeScript, React.js, Next.js and Radix UI
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Implemented end-to-end tests using Cypress for React.js application to achieve comprehensive test coverage.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Refactored legacy codebases by utilizing modern frameworks to improve performance, code quality,
+                    and scalability.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Collaborate with product manager to refine features and create tasks using Jira.
+                  </p>
+                </li>
+              </ul>
+            </div>
+
+            <div className="group">
+              <p className="position">
+                <span className="emphasis">
+                  Senior Developer II at Nexient
+                </span>
+
+                Remote. June 2022 - June 2023. &bull; Full Time
+              </p>
+
+              <ul>
+                <li>
+                  <p>
+                    Led the front-end development team using React.js, Next.js and Material UI to create web applications for client, Verra Mobility.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Conducted weekly code reviews to improve code quality and ensure code was well maintained and coding standards were upheld.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Developed API endpoints using Node.js Lambda functions within a serverless architecture for client, Trinity Rails.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Implemented AWS Cognito to provide secure and scalable authentication services for web applications.
+                  </p>
+                </li>
+              </ul>
+            </div>
+
+            <div className="group">
+              <p className="position"><span className="emphasis">Full Stack Engineer at Frank</span> Los Angeles, Ca. July 2020 - May 2022 &bull; Contract</p>
+              <ul>
+                <li>
+                  <p>
+                    Architected and developed web applications using Next.js, React.js, Redux, and Tailwind CSS.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Developed scalable REST API using Node.js, AWS Lambda functions, and API Gateway resulting in
+                    improved system resposniveness and reduced infrastructure costs.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Designed and implemented database system using MongoDB, optimizing data storage
+                    and retrieval processes for enhanced performance and scalability. 
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Automated CI/CD pipeline to build, test and deploy code
+                    utilizing Git, Docker and AWS Services.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Coordinated with product managers to define scope of work, refine features, and prioritize tasks using Jira.
+                  </p>
+                </li>
+              </ul>
+            </div>
+
+            <div className="group" style={{marginTop: 0}}>
+              <p className="position"><span className="emphasis">Full Stack Engineer at Original Eye</span> Los Angeles, CA. April 2018 - January 2020 &bull; Contract </p>
+              <ul>
+                <li>
+                  <p>
+                    Developed web applications for the e-commerce platform 
+                    using React.js, GraphQL, and Stripe.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Designed and developed content management system using Next.js and React.js for managing inventory, 
+                    tracking orders, and email marketing.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Developed REST API using NodeJS with Express framework.
+                  </p>
+                </li>
+                <li>
+                  <p>
+                    Wrote unit tests for React.js and Node.js applications using Jest, Enzyme, Mocha, and Supertest.
+                  </p>
+                </li>
+              </ul>
+            </div>
           </section>
+        </div>
 
-          <section className="section">
+        <section className="section">
             <h3 className="section-title">References</h3>
             <p className="position">
               <span className="emphasis">Rory Abraham</span>
@@ -239,13 +282,13 @@ export default function Home() {
             <p className="skills">
               408-529-4667
             </p>
+            <div style={{ margin: 4 }} />
             <p className="position">
               <span className="emphasis">Joseph Thompson</span>
               Dev Ops Engineer at Nexient
             </p>
             <p className="skills">916-532-5212</p>
           </section>
-        </div>
       </div>
     </div>
   )
